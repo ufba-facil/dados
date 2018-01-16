@@ -40,6 +40,8 @@ Eis aqui o que você tem de fazer para popular a sua base MySQL:
 
 Guia utilizado para configurar ambiente Ruby on Rails no Ubuntu: https://nandovieira.com.br/configurando-ruby-rails-mysql-postgresql-git-no-ubuntu
 
+Dêem preferência a versão 2.3.1 do Ruby, pois é a versão utilizada na implementação do MeuHorario 2, assim como algumas das dependências do projeto requerem versão do Ruby inferior a 2.4.
+
 
 2. Baixar o projeto do MeuHorario 2:
 
@@ -47,6 +49,9 @@ GitHub do MeuHorario 2: https://github.com/GabrielErbetta/meuhorario2
 
 
 3. No arquivo Gemfile, onde tem escrito "gem 'pg'" mudar para "gem 'mysql2'" (ver arquivo Gemfile na pasta samples).
+
+# Use MySQL as the database for Active Record
+gem 'mysql2'
 
 
 4. No arquivo config/database.yml, configurar o banco de dados MySQL que será utilizado para receber a carga de dados (ver arquivo database.yml na pasta samples).
