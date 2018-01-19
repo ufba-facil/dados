@@ -1,3 +1,5 @@
+# Como importar o dump através do comando mysql
+
 ## Importando / exportando um banco de dados MySQL com linhas de comando:
 
 Para exportar um banco de dados MySQL (como um dump) através da linha de comando, execute:
