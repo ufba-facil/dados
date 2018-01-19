@@ -1,6 +1,6 @@
-# Como gerar o dump através do MeuHorario 2
+### Como gerar o dump através do MeuHorario 2
 
-## Introdução:
+## Introdução
 
 Aqui estão descritos os passos executados para a criação do dump da base de dados que servirá para o projeto "UFBA Fácil" (ver arquivo [dump_meuhorario_mysql.sql.gz](https://ufbafacil.github.io/dados/dumps/dump_meuhorario_mysql_20180116.sql.gz)).   
 Para a criação desta base de dados são utilizados os modelos de entidades (que mapeiam as tabelas do banco) e os crawlers desenvolvidos no projeto do "MeuHorario 2".  
@@ -20,12 +20,12 @@ O MeuHorario 2 é um remake do simulador de matrícula MeuHorario e destina-se a
 O MeuHorario original foi desenvolvido por Rodrigo Rocha em 2004 e pode ser acessado via o link: <http://meuhorario.dcc.ufba.br/>.  
 O MeuHorario 2 utiliza o Ruby 2.3.1, Rails 5.0.0 e o PostgreSQL.
 
-## Motivação:
+## Motivação
 
 Reaproveitar os modelos de entidade do MeuHorario 2; e reutilizar os algoritmos de geração de dados existentes (crawlers).  
 Facilitar a manutenção do banco de dados; e possibilitar a unificação das bases para sistemas distintos.
 
-## Passo-a-passo:
+## Passo-a-passo
 
 Eis aqui o que você deve fazer para popular a sua base MySQL:
 
