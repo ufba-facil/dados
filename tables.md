@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Quais são as tabelas e suas colunas"
+title: "Lista das tabelas"
 ---
+
+### Quais são as tabelas e suas colunas
 
 **Table:** `areas`  
 **Description:** List of the UFBA's areas of knowledge  

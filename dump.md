@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Como gerar o dump através do MeuHorario 2"
+title: "Gerador de dump"
 ---
+
+### Como gerar o dump através do MeuHorario 2
 
 ## Introdução
 

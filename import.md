@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Como importar o dump com o comando mysql"
+title: "Importando o dump"
 ---
+
+### Como importar o dump com o comando mysql
 
 ## Importando / exportando um banco de dados MySQL com linhas de comando:
 

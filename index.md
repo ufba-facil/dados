@@ -5,8 +5,8 @@
 layout: default
 ---
 
-[Como gerar o dump através do MeuHorario 2](https://ufbafacil.github.io/dados/dump)
+[Como gerar o dump através do MeuHorario 2]({{site.baseurl}}/dump)
 
-[Como importar o dump através do comando mysql](https://ufbafacil.github.io/dados/import)
+[Como importar o dump através do comando mysql]({{site.baseurl}}/import)
 
-[Quais são as tabelas, colunas e seus respectivos significados](https://ufbafacil.github.io/dados/tables)
+[Quais são as tabelas, colunas e seus respectivos significados]({{site.baseurl}}/tables)
