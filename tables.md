@@ -1,4 +1,7 @@
-### Quais são as tabelas e suas colunas
+---
+layout: page
+title: "Quais são as tabelas e suas colunas"
+---
 
 **Table:** `areas`  
 **Description:** List of the UFBA's areas of knowledge  
